@@ -64,7 +64,7 @@ To create a visually appealing landing page as part of the **CodSoft Internship 
 
 Add your GitHub Pages URL here:
 
-https://github.com/poornimagogulapati-a11y/codsoft-Landing-Page-Task2
+https://poornimagogulapati-a11y.github.io/codsoft-Landing-Page-Task2
 
 ## 📸 Output
 
